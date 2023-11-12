@@ -1,2 +1,5 @@
 this is a test
 learning basic workflow
+learning:
+git add
+git commit
