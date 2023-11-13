@@ -3,3 +3,4 @@ learning basic workflow
 learning:
 git add
 git commit
+git rm
